@@ -14,8 +14,8 @@ I'm a Developer from NITK Surathkal, passionate about coding, building, and lear
 
 ## 📫 Reach me at:
 - Email: prashanthjeeral@gmail.com
-- LinkedIn: [Prashanth]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prashanth-j-nitk/))
-- Portfolio: [Prashanth-NITK]([https://yourportfolio.com](https://prashanth-nitk.netlify.app/))
+- LinkedIn: [Prashanth](https://www.linkedin.com/in/prashanth-j-nitk/)
+- Portfolio: [Prashanth-NITK](https://prashanth-nitk.netlify.app/)
 
 ## ⚡ Fun fact:
 I love swimming 🏊‍♂️, listening to music 🎧, and exploring cool tech projects!

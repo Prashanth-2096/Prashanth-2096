@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<!--
-**Prashanth-2096/Prashanth-2096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Your Role] from [Your Location], passionate about coding, building, and learning new things!
 
-Here are some ideas to get you started:
+## 🚀 Tech I work with:
+- 💻 Languages: Python, Java, JavaScript
+- 🌐 Frontend: React, HTML, CSS
+- 🛠 Backend: Flask, Node.js
+- ☁️ Tools: Firebase, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently learning:
+- Full-stack development
+- System design
+- Competitive programming
+
+## 📫 Reach me at:
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+
+## ⚡ Fun fact:
+I love swimming 🏊‍♂️, listening to music 🎧, and exploring cool tech projects!
